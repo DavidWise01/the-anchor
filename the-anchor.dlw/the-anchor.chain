@@ -4,6 +4,6 @@ slug  : the-anchor
 seal  : ddc5c1237dde2595889d996c825fc18a2fa00ce39625b223e62200717adc441c
 prev  : 04f34ef0b519eaa4d999932b6c826f31bceb7eb2a7120e0d24b3bf21b9b57fd5
 link  : 6291b589c8ef7d08426fb3e32269234ea222944b02ed09bbefdb4346c065b1a1
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
